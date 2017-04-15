@@ -1,11 +1,13 @@
 # api documentation for  [path-to-regexp (v1.7.0)](https://github.com/pillarjs/path-to-regexp#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-path-to-regexp.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-path-to-regexp) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-path-to-regexp.svg)](https://travis-ci.org/npmdoc/node-npmdoc-path-to-regexp)
 #### Express style path to RegExp utility
 
-[![NPM](https://nodei.co/npm/path-to-regexp.png?downloads=true)](https://www.npmjs.com/package/path-to-regexp)
+[![NPM](https://nodei.co/npm/path-to-regexp.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/path-to-regexp)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-path-to-regexp_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build/screenCapture.buildCi.browser.apidoc.html.png)](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-path-to-regexp/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
@@ -57,137 +59,104 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "amasad",
-            "email": "amjad.masad@gmail.com"
+            "name": "amasad"
         },
         {
-            "name": "anthonyshort",
-            "email": "antshort@gmail.com"
+            "name": "anthonyshort"
         },
         {
-            "name": "blakeembrey",
-            "email": "hello@blakeembrey.com"
+            "name": "blakeembrey"
         },
         {
-            "name": "calvinfo",
-            "email": "calvin@calv.info"
+            "name": "calvinfo"
         },
         {
-            "name": "clintwood",
-            "email": "clint@anotherway.co.za"
+            "name": "clintwood"
         },
         {
-            "name": "coreh",
-            "email": "thecoreh@gmail.com"
+            "name": "coreh"
         },
         {
-            "name": "cristiandouce",
-            "email": "cristiandouce@gmail.com"
+            "name": "cristiandouce"
         },
         {
-            "name": "defunctzombie",
-            "email": "shtylman@gmail.com"
+            "name": "defunctzombie"
         },
         {
-            "name": "dfcreative",
-            "email": "df.creative@gmail.com"
+            "name": "dfcreative"
         },
         {
-            "name": "dominicbarnes",
-            "email": "dominic@dbarnes.info"
+            "name": "dominicbarnes"
         },
         {
-            "name": "dougwilson",
-            "email": "doug@somethingdoug.com"
+            "name": "dougwilson"
         },
         {
-            "name": "forbeslindesay",
-            "email": "forbes@lindesay.co.uk"
+            "name": "forbeslindesay"
         },
         {
-            "name": "ianstormtaylor",
-            "email": "ian@ianstormtaylor.com"
+            "name": "ianstormtaylor"
         },
         {
-            "name": "jonathanong",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jonathanong"
         },
         {
-            "name": "jongleberry",
-            "email": "jonathanrichardong@gmail.com"
+            "name": "jongleberry"
         },
         {
-            "name": "juliangruber",
-            "email": "julian@juliangruber.com"
+            "name": "juliangruber"
         },
         {
-            "name": "kelonye",
-            "email": "kelonyemitchel@gmail.com"
+            "name": "kelonye"
         },
         {
-            "name": "mattmueller",
-            "email": "mattmuelle@gmail.com"
+            "name": "mattmueller"
         },
         {
-            "name": "nami-doc",
-            "email": "vendethiel@hotmail.fr"
+            "name": "nami-doc"
         },
         {
-            "name": "queckezz",
-            "email": "fabian.eichenberger@gmail.com"
+            "name": "queckezz"
         },
         {
-            "name": "rauchg",
-            "email": "rauchg@gmail.com"
+            "name": "rauchg"
         },
         {
-            "name": "retrofox",
-            "email": "rdsuarez@gmail.com"
+            "name": "retrofox"
         },
         {
-            "name": "stagas",
-            "email": "gstagas@gmail.com"
+            "name": "stagas"
         },
         {
-            "name": "stephenmathieson",
-            "email": "me@stephenmathieson.com"
+            "name": "stephenmathieson"
         },
         {
-            "name": "swatinem",
-            "email": "arpad.borsos@googlemail.com"
+            "name": "swatinem"
         },
         {
-            "name": "thehydroimpulse",
-            "email": "dnfagnan@gmail.com"
+            "name": "thehydroimpulse"
         },
         {
-            "name": "timaschew",
-            "email": "timaschew@gmail.com"
+            "name": "timaschew"
         },
         {
-            "name": "timoxley",
-            "email": "secoif@gmail.com"
+            "name": "timoxley"
         },
         {
-            "name": "tjholowaychuk",
-            "email": "tj@vision-media.ca"
+            "name": "tjholowaychuk"
         },
         {
-            "name": "tootallnate",
-            "email": "nathan@tootallnate.net"
+            "name": "tootallnate"
         },
         {
-            "name": "trevorgerhardt",
-            "email": "trevorgerhardt@gmail.com"
+            "name": "trevorgerhardt"
         },
         {
-            "name": "yields",
-            "email": "yields@icloud.com"
+            "name": "yields"
         }
     ],
     "name": "path-to-regexp",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/pillarjs/path-to-regexp.git"
@@ -209,14 +178,43 @@
 # <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
 
 #### [module path-to-regexp](#apidoc.module.path-to-regexp)
+1.  [function <span class="apidocSignatureSpan"></span>path-to-regexp (path, keys, options)](#apidoc.element.path-to-regexp.path-to-regexp)
 1.  [function <span class="apidocSignatureSpan">path-to-regexp.</span>compile (str, options)](#apidoc.element.path-to-regexp.compile)
 1.  [function <span class="apidocSignatureSpan">path-to-regexp.</span>parse (str, options)](#apidoc.element.path-to-regexp.parse)
+1.  [function <span class="apidocSignatureSpan">path-to-regexp.</span>toString ()](#apidoc.element.path-to-regexp.toString)
 1.  [function <span class="apidocSignatureSpan">path-to-regexp.</span>tokensToFunction (tokens)](#apidoc.element.path-to-regexp.tokensToFunction)
 1.  [function <span class="apidocSignatureSpan">path-to-regexp.</span>tokensToRegExp (tokens, keys, options)](#apidoc.element.path-to-regexp.tokensToRegExp)
 
 
 
 # <a name="apidoc.module.path-to-regexp"></a>[module path-to-regexp](#apidoc.module.path-to-regexp)
+
+#### <a name="apidoc.element.path-to-regexp.path-to-regexp"></a>[function <span class="apidocSignatureSpan"></span>path-to-regexp (path, keys, options)](#apidoc.element.path-to-regexp.path-to-regexp)
+- description and source-code
+```javascript
+function pathToRegexp(path, keys, options) {
+  if (!isarray(keys)) {
+    options = /** @type {!Object} */ (keys || options)
+    keys = []
+  }
+
+  options = options || {}
+
+  if (path instanceof RegExp) {
+    return regexpToRegexp(path, /** @type {!Array} */ (keys))
+  }
+
+  if (isarray(path)) {
+    return arrayToRegexp(/** @type {!Array} */ (path), /** @type {!Array} */ (keys), options)
+  }
+
+  return stringToRegexp(/** @type {string} */ (path), /** @type {!Array} */ (keys), options)
+}
+```
+- example usage
+```shell
+n/a
+```
 
 #### <a name="apidoc.element.path-to-regexp.compile"></a>[function <span class="apidocSignatureSpan">path-to-regexp.</span>compile (str, options)](#apidoc.element.path-to-regexp.compile)
 - description and source-code
@@ -333,6 +331,34 @@ var pathToRegexp = require('path-to-regexp')
 - **keys** An array to be populated with the keys found in the path.
 - **options**
 - **sensitive** When 'true' the route will be case sensitive. (default: 'false')
+...
+```
+
+#### <a name="apidoc.element.path-to-regexp.toString"></a>[function <span class="apidocSignatureSpan">path-to-regexp.</span>toString ()](#apidoc.element.path-to-regexp.toString)
+- description and source-code
+```javascript
+toString = function () {
+    return toString;
+}
+```
+- example usage
+```shell
+...
+* Prettier encoding of URI path segments.
+*
+* @param  {string}
+* @return {string}
+*/
+function encodeURIComponentPretty (str) {
+ return encodeURI(str).replace(/[\/?#]/g, function (c) {
+   return '%' + c.charCodeAt(0).toString(16).toUpperCase()
+ })
+}
+
+/**
+* Encode the asterisk parameter. Similar to 'pretty', but allows slashes.
+*
+* @param  {string}
 ...
 ```
 
