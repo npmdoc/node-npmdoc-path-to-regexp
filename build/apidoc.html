@@ -90,15 +90,6 @@
 
         <li>
 
-            <a class="apidocElementLiA" href="#apidoc.element.path-to-regexp.toString">
-            function <span class="apidocSignatureSpan">path-to-regexp.</span>toString
-            <span class="apidocSignatureSpan">()</span>
-            </a>
-
-        </li>
-
-        <li>
-
             <a class="apidocElementLiA" href="#apidoc.element.path-to-regexp.tokensToFunction">
             function <span class="apidocSignatureSpan">path-to-regexp.</span>tokensToFunction
             <span class="apidocSignatureSpan">(tokens)</span>
@@ -272,37 +263,6 @@ var pathToRegexp = require(&#x27;path-to-regexp&#x27;)
 - **keys** An array to be populated with the keys found in the path.
 - **options**
 - **sensitive** When `true` the route will be case sensitive. (default: `false`)
-...</pre></li>
-    </ul>
-
-
-
-    <h2>
-        <a href="#apidoc.element.path-to-regexp.toString" id="apidoc.element.path-to-regexp.toString">
-        function <span class="apidocSignatureSpan">path-to-regexp.</span>toString
-        <span class="apidocSignatureSpan">()</span>
-        </a>
-    </h2>
-    <ul>
-    <li>description and source-code<pre class="apidocCodePre">toString = function () {
-    return toString;
-}</pre></li>
-    <li>example usage<pre class="apidocCodePre">...
-* Prettier encoding of URI path segments.
-*
-* @param  {string}
-* @return {string}
-*/
-function encodeURIComponentPretty (str) {
- return encodeURI(str).replace(/[\/?#]/g, function (c) {
-   return &#x27;%&#x27; + c.charCodeAt(0).<span class="apidocCodeKeywordSpan">toString</span>(16).toUpperCase()
- })
-}
-
-/**
-* Encode the asterisk parameter. Similar to `pretty`, but allows slashes.
-*
-* @param  {string}
 ...</pre></li>
     </ul>
 
